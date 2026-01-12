@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=ꕥ+Bienvenido/a!+,+soy+Yuzuki+Bot+-+AI" alt="YuzukiBot-AI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=ꕥ+Bienvenido/a!+,+soy+Yumi+Bot+-+AI" alt="YuzukiBot-AI"/>
 </p>
 
 <p align="center">
@@ -57,4 +57,4 @@ Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. What
 
 ### **`🥦 Propietaria`**
 <a
-href="https://github.com/natie1515"><img src="https://github.com/shadox-xyz.png" width="130" height="130" alt=" ׅ   ⿆  𝃤𝃤𓂂 ɪ'ᴍ sʜᴀᴅᴏᴡ's xʏᴢ 彡★"/></a>
+href="https://github.com/natie1515"><img src="https://github.com/natie1515.png" width="130" height="130" alt=" ׅ   ⿆  𝃤𝃤𓂂 ɪ'ᴍ sʜᴀᴅᴏᴡ's xʏᴢ 彡★"/></a>
