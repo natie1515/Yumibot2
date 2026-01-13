@@ -57,4 +57,4 @@ Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. What
 
 ### **`🥦 Propietaria`**
 <a
-href="https://github.com/natie1515"><img src="https://github.com/natie1515.png" width="130" height="130" alt=" ׅ   ⿆  𝃤𝃤𓂂 ɪ'ᴍ sʜᴀᴅᴏᴡ's xʏᴢ 彡★"/></a>
+href="https://github.com/"><img src="https://github.com/natie1515.png" width="130" height="130" alt=" ׅ   ⿆  𝃤𝃤𓂂 ɪ'ᴍ sʜᴀᴅᴏᴡ's xʏᴢ 彡★"/></a>
